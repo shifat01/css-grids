@@ -1,4 +1,4 @@
-# CSS Flexbox
+# CSS Grids
 
 Simple Grids design using html and css
 
